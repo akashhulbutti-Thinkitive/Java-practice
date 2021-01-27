@@ -1,0 +1,3 @@
+name=akash
+role=admin
+gender=m
